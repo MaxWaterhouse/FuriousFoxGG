@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Max!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 
-<br/><a href="https://github.com/FuriousFoxGG"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=15F7E6&background=FF000000&width=435&lines=FiveM+Developer+%7C+Learning+Lua;Wanting+To+Learn+JavaScript" alt="Typing SVG" /></a>
+<br/><a href="https://github.com/MaxWaterhouse"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=15F7E6&background=FF000000&width=435&lines=+%7C+Learning+Lua;Wanting+To+Learn+JavaScript" alt="Typing SVG" /></a>
 
 <br>
 
