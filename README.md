@@ -88,16 +88,6 @@
     	</a>
 	<a href="https://github.com/FuriousFoxGG/M-Teleport">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FuriousFoxGG&repo=M-Teleport&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/FuriousFoxGG/M-Duty">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FuriousFoxGG&repo=M-Duty&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/FuriousFoxGG/M-VehBlacklist">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FuriousFoxGG&repo=M-VehBlacklist&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-		<a href="https://github.com/FuriousFoxGG/M-Announce">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FuriousFoxGG&repo=M-Announce&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
   </p>
 </div>
 </details>
