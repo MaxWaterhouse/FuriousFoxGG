@@ -6,7 +6,7 @@
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=FuriousFoxGG&label=Profile%20views&color=555555&labelColor=000000&style=for-the-badge" alt="FuriousFoxGG" width=19.40%/>
+	<img src="https://komarev.com/ghpvc/?username=MaxWaterhouse&label=Profile%20views&color=555555&labelColor=000000&style=for-the-badge" alt="MaxWaterhouse" width=19.40%/>
 
 </p>
 
@@ -17,7 +17,7 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-	<a href="https://github.com/FuriousFoxGG"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://github.com/MaxWaterhouse"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <br> 
@@ -25,7 +25,7 @@
 ---
 
 <p align = "center">
-	<a href="https://github.com/FuriousFoxGG/FuriousFoxGG"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+	<a href="https://github.com/MaxWaterhouse/MaxWaterhouse"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
@@ -34,7 +34,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FuriousFoxGG&theme=tokyonight_duo" alt="FuriousFoxGG" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxWaterhouse&theme=tokyonight_duo" alt="MaxWaterhouse" /></p>
 
 </details>
   
@@ -43,9 +43,9 @@
 ----
 	
 <p align="center">
-    <a href="https://github.com/FuriousFoxGG/FuriousFoxGG">
-	    <img alt="FuriousFoxGG's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FuriousFoxGG&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FuriousFoxGG&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="FuriousFoxGG" height="230px"/>
+    <a href="https://github.com/MaxWaterhouse/MaxWaterhouse">
+	    <img alt="MaxWaterhouse's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MaxWaterhouse&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaxWaterhouse&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="MaxWaterhouse" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -56,7 +56,7 @@
 
 ----
 	
-[![FuriousFoxGG's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=FuriousFoxGG&theme=github)](https://github.com/7oSkaaa/github-readme-activity-graph)
+[![MaxWaterhouse's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MaxWaterhouse&theme=github)](https://github.com/7oSkaaa/github-readme-activity-graph)
 
  
 </details>
@@ -65,23 +65,8 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/FuriousFoxGG/FuriousFoxGG"><img src="https://github-profile-trophy.vercel.app/?username=FuriousFoxGG&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="FuriousFoxGG" /></a> </p>
+<p align="center"> <a href="https://github.com/MaxWaterhouse/MaxWaterhouse"><img src="https://github-profile-trophy.vercel.app/?username=MaxWaterhouse&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="MaxWaterhouse" /></a> </p>
 
-[![@FuriousFoxGG's Holopin board](https://holopin.io/api/user/board?user=FuriousFoxGG)](https://holopin.io/@FuriousFoxGG)
+[![@MaxWaterhouse's Holopin board](https://holopin.io/api/user/board?user=MaxWaterhouse)](https://holopin.io/@MaxWaterhouse)
 	
-</details>
-	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-
-----
-	
-<div>
-  <p align="center">
-	<a href="https://github.com/FuriousFoxGG/M-AOP">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FuriousFoxGG&repo=M-AOP&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/FuriousFoxGG/M-Teleport">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=FuriousFoxGG&repo=M-Teleport&theme=tokyonight" alt="GitHub Stats" />
-  </p>
-</div>
 </details>
